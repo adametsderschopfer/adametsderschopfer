@@ -1,2 +1,2 @@
 Когда-нибудь, тут будет информация обо мне....
-(Telegram)[t.me/adametsderschopfer]
+[@Telegram](t.me/adametsderschopfer)
